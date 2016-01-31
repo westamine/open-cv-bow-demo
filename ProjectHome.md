@@ -1,0 +1,1 @@
+A small demo program for exploring the opencv feature extraction and object categorization classes
